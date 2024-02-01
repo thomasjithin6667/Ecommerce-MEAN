@@ -1,0 +1,5 @@
+1.create package.json-nmp init -y
+2.install-npm i express cors mongoose dotenv
+dotenv- environment variables are used to store app secert and config data which are retrived by running app when needed
+3. create .env file
+4.creat .gitignore
